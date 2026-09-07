@@ -226,5 +226,5 @@ Server-side concurrency, by implementing a Thread Pool to process multiple reque
 
 ## 13. Author and Acknowledgments
 
-- **Author:** Julián Ramírez
-- **Acknowledgments:** Escuela Colombiana de Ingeniería Julio Garavito and the official AWS EC2 / Java OpenJDK documentation.
+- Author: Julián Ramírez
+- Acknowledgments: Escuela Colombiana de Ingeniería Julio Garavito and the official AWS EC2 / Java OpenJDK documentation.
