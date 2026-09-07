@@ -1,7 +1,8 @@
 # Networking: Lab 5 – From a Minimal HTTP Server to a Web Application on AWS
 
-Author: Julián Ramírez
-Course: Enterprise Architecture – Escuela Colombiana de Ingeniería Julio Garavito
+- Author: Julián Ramírez
+
+- Course: Enterprise Architecture – Escuela Colombiana de Ingeniería Julio Garavito
 AWS EC2 Deployment: [http://54.87.133.241:35000/](http://54.87.133.241:35000/)
 
 ---
