@@ -1,4 +1,4 @@
-# Networking Lab 2 – From a Minimal HTTP Server to a Web Application on AWS
+# Networking: Lab 5 – From a Minimal HTTP Server to a Web Application on AWS
 
 Author: Julián Ramírez
 Course: Enterprise Architecture – Escuela Colombiana de Ingeniería Julio Garavito
