@@ -1,0 +1,23 @@
+# Compiled build outputs
+/target/
+/out/
+*.class
+
+# IntelliJ IDEA workspace & project config
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# Cloud Credentials & Secrets
+*.pem
+*.key
+.env
